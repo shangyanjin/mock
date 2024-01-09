@@ -1,0 +1,1 @@
+This versatile Gin-based Go mock server dynamically serves JSON responses from the local file structure, supporting Windows, Linux, and macOS. Ideal for API simulation and development, it maps each JSON file to a route for easy configuration. Runs on port 3000 with command-line flexibility.
